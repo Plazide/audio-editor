@@ -1,8 +1,6 @@
-# Audio recorder
+# Audio editor
 
-Audio recorder is not just an audio recorder. It let's you record audio and then mix the audio, directly in you browser. It is powered by view and the Web Audio API. Pretty cool.
-
-This is my first Vue project, so tell if something is off with project structure or the code.
+A web app that allows you to record and edit audio directly in your browser. It's a WIP but hope it will be really awesome one day.
 
 ## Project setup
 ```
